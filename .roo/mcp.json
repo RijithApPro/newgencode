@@ -1,13 +1,15 @@
 {
   "mcpServers": {
-      "weather": {
-          "command": "uv",
-          "args": [
-              "--directory",
-              "C:\\Users\\rpi5kor\\weather",
-              "run",
-              "weather.py"
-          ]
-      }
+    "weather": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\DDrive\\MyDev\\clones\\ngc_develop\\newgencode\\scripts\\weather",
+        "run",
+        "weather.py"
+      ],
+      "disabled": false,
+      "alwaysAllow": []
+    }
   }
 }
