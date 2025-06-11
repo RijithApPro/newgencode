@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+      "weather": {
+          "command": "uv",
+          "args": [
+              "--directory",
+              "C:\\Users\\rpi5kor\\weather",
+              "run",
+              "weather.py"
+          ]
+      }
+  }
+}
